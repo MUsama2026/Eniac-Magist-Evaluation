@@ -28,9 +28,9 @@ This project answers both questions using SQL analysis of Magist's full order hi
 eniac-magist-evaluation/
 ├── README.md
 ├── sql/
-│   └── eniac_case.sql          # All analysis queries, organized by question
+│   └── Eniac_case.sql          # All analysis queries, organized by question
 ├── tableau/
-│   └── magist_dashboard.twbx   # Tableau workbook with all charts (packaged with data extract)
+│   └── Magist_dashboard.twbx   # Tableau workbook with all charts (packaged with data extract)
 └── presentation/
     └── Magist_Evaluation_Presentation.pptx
 ```
