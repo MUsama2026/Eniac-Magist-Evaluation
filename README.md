@@ -32,7 +32,7 @@ eniac-magist-evaluation/
 ├── tableau/
 │   └── Magist_dashboard.twbx   # Tableau workbook with all charts (packaged with data extract)
 └── presentation/
-    └── Magist_Evaluation_Presentation.pptx
+    └── Magist_Evaluation.pptx
 ```
 
 ## Data Source
